@@ -92,3 +92,4 @@ ENV/
 data/
 .env
 .ipynb_checkpoints
+data/
